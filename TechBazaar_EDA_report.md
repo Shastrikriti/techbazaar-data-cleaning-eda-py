@@ -2,7 +2,7 @@
 
 **Author:** Kriti Shastri
 **Scope:** 1 Jan 2024 – 15 May 2025 · **Source:** four messy CSV exports · **Currency:** not stated in the data; INR assumed (Indian cities, UPI payments)
-**Code:** [`src/analysis.py`](../src/analysis.py) · **Numbers:** [`outputs/metrics.json`](../outputs/metrics.json), [`outputs/tables/`](../outputs/tables)
+**Code:** [`src/analysis.py`](../src/analysis.py) 
 
 ---
 
