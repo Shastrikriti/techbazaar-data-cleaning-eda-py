@@ -2,7 +2,7 @@
 
 Cleaning and exploratory analysis of messy e-commerce sales data (customers, orders, order items and products) using Python, pandas, matplotlib and seaborn.
 
-📄 **Documentation:** [`TechBazaar_Documentation.pdf`](TechBazaar_Documentation.pdf) · [`TechBazaar_Documentation.docx`](TechBazaar_Documentation.docx)
+📄 **Documentation:** [`TechBazaar_report.pdf`](TechBazaar_report.pdf) 
 📓 **Notebook:** [`Cleaning_TechBazaar.ipynb`](Cleaning_TechBazaar.ipynb)
 
 ## Overview
